@@ -89,11 +89,11 @@ Results of the classifier are assessed by a few evaluation metrics:
   The Precision-Recall Curve can be seen in below:
 
   <a href="url">
-  <img src="https://github.com/ekaraali/Lemon_Classification_Model/blob/main/images/train_loss_curve.png?raw=true">
+  <img src="https://github.com/ekaraali/Epilepsy-Classification/blob/main/images/pr_curve.png?raw=true" style="width:500px; height:auto;" alt="PR Curve">
   </a>
 
   The ROC Curve can be seen in below:
 
   <a href="url">
-  <img src="https://github.com/ekaraali/Lemon_Classification_Model/blob/main/images/train_loss_curve.png?raw=true">
+  <img src="https://github.com/ekaraali/Epilepsy-Classification/blob/main/images/roc_curve.png?raw=true" style="width:500px; height:auto;" alt="PR Curve">
   </a>
